@@ -2,7 +2,7 @@
 
 ## I'm a Student, Musician, Maker and Developer!!
 
-- 🔭 Peruvian student on Electronic Engineering at UNMSM
+- 🔭 Peruvian Electronic Engineering student at UNMSM 
 - 🌱 I’m currently working on audio digital signal processing
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Finish my university thesis
@@ -17,7 +17,7 @@
 
 ### How I work?
 
-if you work with your heart and think with your mind everything is possible to do ❤️
+Everything you do, do it with passion❤️
 
 ### Projects, lenguages, my work ? 
 
