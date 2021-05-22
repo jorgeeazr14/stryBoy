@@ -8,13 +8,6 @@
 - 🥅 2021 Goals: Finish my university thesis
 - ⚡ I love playing guitar
 
-### My values
-
-- Unity is strength
-- 🚀 Diversity is key
-- Leading by example
-- 🔝 Quality first
-
 ### How I work?
 
 Everything you do, do it with passion❤️
@@ -26,7 +19,7 @@ Everything you do, do it with passion❤️
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/o458rva4pusncalr4r1a54w6e)
 
 ### Connect with me:
 
