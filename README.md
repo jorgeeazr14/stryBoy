@@ -8,6 +8,22 @@
 - 🥅 2021 Goals: Finish my university thesis
 - ⚡ I love playing guitar
 
+### My values
+
+- Unity is strength
+- 🚀 Diversity is key
+- Leading by example
+- 🔝 Quality first
+
+### How I work?
+
+if you work with your heart and think with your mind everything is possible to do ❤️
+
+### Projects, lenguages, my work ? 
+
+- 💻 I’m currently learning more DSP, FPGA and AI
+- 💬 Ask me about whatever thing that you want to learn
+
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
