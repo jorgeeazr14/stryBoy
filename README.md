@@ -1,6 +1,6 @@
 ### Hi there, I'm Jorge Zambrano 👋
 
-## I'm a Student, Musician, Maker and Developer!!
+## I'm a Student, Musician, Electronic and Developer!!
 
 - 🔭 Peruvian Electronic Engineering student at UNMSM 
 - 🌱 I’m currently working on audio digital signal processing
@@ -14,8 +14,8 @@ Everything you do, do it with passion❤️
 
 ### Projects, lenguages, my work ? 
 
-- 💻 I’m currently learning more DSP, FPGA and AI
-- 💬 Ask me about whatever thing that you want to learn
+- 💻 I’m currently learning more about DSP, FPGA and AI
+- 💬 Ask me about anything about the repositories
 
 ### Connect with me:
 
