@@ -17,10 +17,6 @@ Everything you do, do it with passion❤️
 - 💻 I’m currently learning more DSP, FPGA and AI
 - 💬 Ask me about whatever thing that you want to learn
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/o458rva4pusncalr4r1a54w6e)
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
