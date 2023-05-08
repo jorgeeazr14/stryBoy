@@ -1,20 +1,16 @@
 ### Hi there, I'm Jorge Zambrano 👋
 
-## I'm a Student, Musician, Electronic and Developer!!
+## I'm a Electronic Engineer, Musician and Developer!
 
-- 🔭 Peruvian Electronic Engineering student at UNMSM 
-- 🌱 I’m currently working on audio digital signal processing
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Finish my university thesis
-- ⚡ I love playing guitar
+- 👨‍🎓 Peruvian Electronic Engineer #Unmsm
+- 👨‍💻  I’m currently working on fpga and audio proccesing. 
+- 🥅 2023 Goals: Finish my university thesis, travel to Huaraz and start studing at a coder bootcamp 
+- ⚡ I love playing guitar and do music production in my free time!
 
-### How I work?
-
-Everything you do, do it with passion❤️
 
 ### Projects, lenguages, my work ? 
 
-- 💻 I’m currently learning more about DSP, FPGA and AI
+- 💻 Nowadays, I’m more interested in web development and Cloud services. Leanguages I learned: Javascript, React, SQL, VHDL, C++, Python, and Cisco.
 - 💬 Ask me about anything about the repositories
 
 ### Connect with me:
